@@ -1,0 +1,4 @@
+export const USER_SUBMITTED_FORM = 'USER_SUBMITTED_FORM'
+export const FORM_INIT = 'FORM_INIT'
+export const FORM_DATA_UPDATED = 'FORM_DATA_UPDATED'
+export const RESET_FORM = 'RESET_FORM'
